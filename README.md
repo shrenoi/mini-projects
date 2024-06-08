@@ -8,3 +8,4 @@ Contains the following projects:
 + Picture to gif converter
 + Random Password Generator
 + Calculator
++ Snake Game

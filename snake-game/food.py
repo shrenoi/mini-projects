@@ -9,7 +9,7 @@ class Food(Turtle):
         self.color("red")
         self.speed("fastest")
         random_x = random.randint(-280, 280)
-        random_y = random.randint(-280, 280)
+        random_y = random.randint(-260, 260)
         self.goto(random_x, random_y)
 
 

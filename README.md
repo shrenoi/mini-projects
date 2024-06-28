@@ -12,3 +12,5 @@ Contains the following projects:
 + Pong Game
 + Turtle Crossing Game
 + US State Guesser Game
++ Miles to Kilometers Converter (GUI)
++ Pomodoro GUI Application

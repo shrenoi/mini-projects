@@ -13,4 +13,4 @@ Contains the following projects:
 + Turtle Crossing Game
 + US State Guesser Game
 + Miles to Kilometers Converter (GUI)
-+ Pomodoro GUI Application
++ Pomodoro GUI Application+ Miles to Kilometers Converter (GUI)

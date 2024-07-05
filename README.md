@@ -5,7 +5,7 @@ Contains the following projects:
 + Caeser Cypher
 + BlackJack Game
 + Guess the number
-+ Picture to gif converter
++ Image to GIF converter
 + Random Password Generator
 + Calculator
 + Snake Game

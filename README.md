@@ -14,3 +14,4 @@ Contains the following projects:
 + US State Guesser Game
 + Miles to Kilometers Converter (GUI)
 + Pomodoro GUI Application
++ Password Manager
